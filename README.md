@@ -1,2 +1,2 @@
-# MonsterHunterVotingApp
-Web based voting application on monsters from the Monster Hunter Franchise
+# Monster Hunter Voting Site
+Voting site on monsters from the Monster Hunter Franchise
