@@ -1,0 +1,15 @@
+
+## Introduction
+  The goal for the user is to be able to choose between two monsters from the Monster Hunter franchise and be able to click a button underneath the respective monster's portrait in order to vote for that respective monster. Another two monsters portraits should be randomly generated after one is voted for. There will also be a ranking page that displays each monster's name / portrait (you can decide this) to show the results of the voting. It should work for mobile and desktop screens
+
+## Mobile Voting Page
+   The mobile voting page should have a hamburger menu icon to switch between ranking and voting. There should be a title for the page near the hamburger menu to denote what page you're on. Use the small scale monster pics for mobile to avoid having to scale images to fit on screen. The portrait should include the monster name and there should be a button for each to vote on either one. The button should be placed underneath the monster to give it a scroll-able feel. Include the monster hunter logo in the title if possible if not put it on the voting and ranking pages to make it known. For colors use the "earthy" tone from the monster hunter website by capcom and if you can find a palette from that use it that if possible. The site needs the "earthy" tone to fit the style of the game. For font, use Roboto with arial as a fallback. 
+
+## Mobile Ranking Page
+  The ranking page should have a hamburger menu icon to switch between ranking and voting. There should be a title for the respective page as well near the menu. The ranking system should have a picture of the monster and their respective rank below their name and picture. The font used once again is Roboto and arial for fallback. For both pages use human readable font sizes. For the colors, use the "earthy" tones from the monster hunter website made by capcom to get inspiration for a palette to use.
+
+## Desktop Voting Page
+   The desktop voting page should have links for ranking and voting in the header. The monster hunter logo should also be in the header. The color of the header needs to be an earthy tone monster hunter color from the capcom site. The body content needs to have a portrait of each monster with the text "VS" between them and below their portrait should be their name and a button to vote for them. The buttons should be a color that stands out following the earthy tones mentioned previously. No need for other content outside that. Font use Roboto for names and text. Color for body content needs to be earthy color tones.
+
+## Desktop Ranking Page
+   The desktop ranking page should have links for ranking and voting in the header. The monster hunter logo should also be in the header. The color of the header needs to be an earthy tone monster hunter color from the capcom site. The body content should have a ranking table with the picture of the monster slimmed down some, their name, and their appropriate ranking. Color for body content needs to be earthy color tones.
